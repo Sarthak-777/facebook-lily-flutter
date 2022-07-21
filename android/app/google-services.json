@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502299183603",
+    "project_id": "facebook-lily",
+    "storage_bucket": "facebook-lily.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502299183603:android:1f72edf374820e590baa86",
+        "android_client_info": {
+          "package_name": "com.example.facebook_lily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502299183603-82blc0h30i5sjnlda05l5rseva55ng3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsWPYB_xAp7XD6jfpHI38qKqKfGjb3bgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502299183603-82blc0h30i5sjnlda05l5rseva55ng3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
